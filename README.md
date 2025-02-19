@@ -1,11 +1,13 @@
 # Python Crash Course Materials
-Code along notebook and pre-workshop survey link.
+Code along notebooks
 
-### Notebook (.ipynb)
+
+### Jupyter Notebook Introduction (.ipynb)
+Google colaboratory: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmckim/python-crash-course/blob/main/JupyterNotebook_Introduction.ipynb)
+
+
+### Full Notebook (.ipynb)
 Google colaboratory: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmckim/python-crash-course/blob/main/PythonCrashCourse_Notebook.ipynb)
-
-### Pre-workshop (anonymous) survey
-https://forms.gle/HBGN99KzKyWvdKMcA
 
 
 ### Questions?
